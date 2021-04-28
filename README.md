@@ -1,2 +1,0 @@
-# appteste
-aplicativo teste conhecimento
